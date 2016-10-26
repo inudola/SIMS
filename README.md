@@ -2,10 +2,8 @@
 
 SISTEM MANAGEMENT INFORMATION SYSTEM
 
-TECHNOLOGY 
-- HTML
-- FRAMEWORK PHP LARAVEL
-- JAVASCRIPT
-- JQUERY 
+SIMS is a form of Software School Management Information System as a solution
+
+Integrated Administration for Schools.
 
 
