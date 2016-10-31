@@ -31,7 +31,7 @@
           <div class="container">
             <div class="nav-wrapper">
               <ul class="left hide-on-med-and-down">
-                <li class="active"><a href="#">Beranda</a></li>
+                <li class="active"><a href="/beranda">Beranda</a></li>
                 <li><a href="#">E-Learning</a></li>
                 <li><a href="#">Pelajaran</a></li>
                 <li><a href="#">Forum</a></li>
