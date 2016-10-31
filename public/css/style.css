@@ -1,0 +1,79 @@
+nav ,nav ul a{
+	background-color: #fff;
+	color: #0d47a1; 
+
+}
+.btn{
+	background-color: #0d47a1;
+}
+
+nav ul li.active{background-color:rgba(0,0,0,0.1)}
+
+nav ul li.active::before{
+	content: " ";
+	position: absolute;
+	height: 1.5rem;
+	width: 2px;
+	margin-top:21px;
+	margin-left:8px;
+	background-color: #0d47a1;
+}
+
+#info_sims_user{
+	background-color: #0d47a1;
+	padding: 10px;
+	height:240px;
+	color: #fff;
+}
+#user_detile{
+	float:left;
+}
+
+
+#info_prof{
+	float: right;
+}
+.rank_user,
+.info_El,
+.user_info_img,
+.user_info_prof{
+	display: inline-block;
+	padding: 20px 50px;
+}
+.rank_user h2,
+.info_El h2{
+	font-size: 4.26rem;
+}
+
+.rank_user,
+.info_El{
+
+	text-align: center;
+}
+.user_info_img{
+	padding: 0;
+	
+	
+}
+.user_info_img img{
+	width: 150px;
+	height: 150px;
+	border-right:4px solid transparent;
+	border-left:4px solid transparent;
+	border-top:4px solid red;
+	border-bottom:4px solid red;
+
+}
+div.sircle{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	border: 2px solid #0d47a1;
+	line-height: 50px;
+
+	border-radius: 50%;
+}
+tbody tr{
+	border-left: 3px solid #0d47a1
+}
+
